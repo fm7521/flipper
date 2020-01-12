@@ -1,0 +1,10 @@
+{
+    "commands": {
+        "ping": {
+            "template": " Pong! Latency is {{msLatency}}ms" 
+        },
+        "blockUser": {
+            "template": "User: '{{username}}' has been blocked!"
+        }
+    }
+}
